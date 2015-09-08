@@ -1,4 +1,4 @@
-# 安装
+# 开始安装
 
 - [安装](#installation)
 - [配置](#configuration)
